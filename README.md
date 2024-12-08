@@ -20,7 +20,9 @@ Clone the repository:
    ```bash
    git clone https://github.com/avinash1606/Githup-Profile-Viewer.git
    cd github-profile-viewer
+```
+
 
 ## Demo
 
-You can view the live demo of the project at [GitHub Profile Viewer Demo](https://github-profile-viewer.glitch.me/).
+You can view the live demo of the project at [GitHub Profile Viewer Demo]https://github-profile-viewer.glitch.me/
