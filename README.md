@@ -25,4 +25,4 @@ Clone the repository:
 
 ## Demo
 
-You can view the live demo of the project at [GitHub Profile Viewer Demo]https://github-profile-viewer.glitch.me/
+You can view the live demo of the project at[GitHub Profile Viewer Demo](https://github-profile-viewer.glitch.me/)
